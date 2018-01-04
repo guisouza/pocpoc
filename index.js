@@ -1,5 +1,6 @@
 var pessoa = {
-    nome : 'joão'
+    nome : 'joão',
+    idade: 22
 }
 
 
